@@ -7,3 +7,13 @@
 	text-decoration: none;
 	list-style-type: none;
 }
+
+html {
+	font-size: 62.5%;
+	font-family: "Roboto", sans-serif;
+}
+
+body {
+	min-height: 100vh;
+	background-color: #222;
+}
