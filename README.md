@@ -2,4 +2,4 @@
 
 _prótótipo nº1:_
 
-![Protótipo nº 1](https://media.giphy.com/media/javascript-casestudy-liarleycodie-glfNgUSqGZA9SqOlaO/giphy.gif)
+![Protótipo nº 1](https://media.giphy.com/media/javascript-casestudy-liarleycodie-gIfNgUSqGZA9SqOlaO/giphy.gif)
