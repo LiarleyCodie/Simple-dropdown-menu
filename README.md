@@ -1,4 +1,4 @@
-#1 [Simple Dropdown Menu](https://liarleycodie.github.io/Simple-dropdown-menu)
+# [Simple Dropdown Menu](https://liarleycodie.github.io/Simple-dropdown-menu)
 
 - Aqui estarão alguns estudos de caso de um menu Dropdown
 
